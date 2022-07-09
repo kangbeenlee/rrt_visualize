@@ -1,7 +1,9 @@
 # rrt_visualize
 RRT visualization with Rviz
 
-# Clone the rrt_visualize repository in your working directory
+<br/>
+
+# Clone this repository in your working directory
 In home directory
 
 ```
@@ -10,6 +12,8 @@ git clone https://github.com/kangbeenlee/rrt_visualize.git
 cd ..
 catkin_make
 ```
+
+<br/>
 
 # Implementation Rviz
 In terminal
