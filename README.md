@@ -3,6 +3,7 @@
 
 ```
 mkdir -p rrt_ws/src
+cd ~/rrt_ws/src
 git clone https://github.com/kangbeenlee/rrt_visualize.git
 cd ..
 catkin_make
